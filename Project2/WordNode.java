@@ -2,7 +2,7 @@
  * The word node class contains 2 constructors, 1 for a dummy node
  * and one that takes a word as a parameter and creates a word 
  * node using that word 
- * @author Jason Polanco Lab Section 11C
+ * @author Jason Polanco
  *
  */
 public class WordNode {
