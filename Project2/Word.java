@@ -2,7 +2,7 @@
  * Defines what behaviors and properties that a Word has
  * such as comparing 2 words, converting a string to a word and
  * a constructor which takes a string 
- * @author Jason Polanco Lab Section 11C
+ * @author Jason Polanco
  *
  */
 public class Word {
