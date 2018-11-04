@@ -2,7 +2,7 @@
  * Holds the information for a linked list of words
  * contains methods that a word list can and can not do
  * such as adding to end of list and inserting in proper position
- * @author Jason Polanco Lab Section 11C
+ * @author Jason Polanco
  *
  */
 public class WordList {
