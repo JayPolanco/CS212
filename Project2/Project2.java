@@ -1,10 +1,11 @@
 /**
  * 
  * This Program takes in a text file of words and puts them 
- * in sorted and unsorted linked lists. Then calls to print the unsorted and sorted list
+ * in sorted and unsorted WordLists(which are self made linked list). 
+ * Then calls to print the unsorted and sorted list
  * of words onto a GUI.
  * 
- *@author Jason Polanco Lab Section 11C
+ *@author Jason Polanco
  *
  */
 import java.util.*;
