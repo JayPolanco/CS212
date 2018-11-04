@@ -1,4 +1,4 @@
-/*Jason Polanco, Lab Section 11C
+/*Jason Polanco
  * 
  * This Program takes in a text file of words and puts them 
  * in an array one by one. Then prints the unsorted and sorted list
