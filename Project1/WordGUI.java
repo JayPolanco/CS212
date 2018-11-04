@@ -45,7 +45,8 @@ public class WordGUI extends JFrame {
      for(int i = 0; i < size; i++){
         unsorted.append(list[i] + "\n");
         
-     }      
+     }
+     unsorted.setFont(new Font("Times New Roman",Font.PLAIN,25));
    }
    
    //Prints sorted list by appending it to the 2nd column of GUI
@@ -56,6 +57,7 @@ public class WordGUI extends JFrame {
          sorted.append(wordArray[i] + "\n");
       
       }
+      sorted.setFont(new Font("Times New Roman",Font.PLAIN,25));
       
    }
 }
